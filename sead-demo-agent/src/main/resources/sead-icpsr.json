@@ -1,0 +1,49 @@
+{
+	"@context":"http://re3data.org/",
+	"@type":"repository",
+	"orgidentifier":"openicpsr",
+	"repositoryName":"Inter-university Consortium for Political and Social Research",
+	"additionalName":"ICPSR data archive",
+	"repositoryURL":"https://www.openicpsr.org/",
+	"description":"ICPSR maintains a data archive of more than 500,000 files of research in the social sciences. It hosts 16 specialized collections of data in education, aging, criminal justice, substance abuse, terrorism, and other fields.",
+	"repositoryContact":"Linda Detterman",
+	"type":"serviceProvider",
+	"size":{
+		"updated":"",
+		"content":"500,000+"
+	},
+	"dataAccess":{
+		"dataAccessType":"open"
+	},
+	"dataUpload":{
+		"dataUploadType":"open"
+	},
+	"enhancedPublication":"yes",
+	"databaseAccess":{
+		"databaseAccessType":"open"
+	},
+	"versioning":"yes",
+	"repositoryLanguage":"en-US",
+	"dataLicense":{
+		"dataLicenseName":"Apache License 2.0",
+		"dataLicenseURL":"http://www.apache.org/licenses/LICENSE-2.0"
+	},
+	"contentType":[
+		"csv",
+		"txt",
+		"xml",
+		"html",
+		"tif",
+		"jp2",
+		"aif",
+		"fla",
+		"ogg",
+		"wav",
+		"avi",
+		"mj2"
+	],
+	"maxFileSize":{
+		"unit":"MB",
+		"value":1000
+	}
+}
